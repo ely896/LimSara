@@ -1,0 +1,62 @@
+body{
+  background-image: url(background.jpg);
+  background-size:  cover;
+}
+.container {
+  width: 1000px;
+  margin: auto;
+  margin-top: 150px;
+  background-color: rgba(0,0,0,.5);
+  border-radius: 10px;
+  padding: 50px;
+}
+
+header{
+  text-align: center;
+}
+.logo{
+  width: 200px;
+}
+.logo-text{
+  font-size: 35px;
+  color: #7ce134;
+}
+.row {
+  background-color: #7ce134;
+  width: 1000px;
+  height: 25px;
+  padding: 10px;
+  text-align: center;
+}
+main{
+  color: white;
+}
+.row2{
+  background-color: green;
+  width: 450px;
+}
+h3{
+  color: white;
+  display: inline-block;
+}
+.monopattino{
+  font-size: 20px;
+}
+.row-two{
+  background-color: orange;
+  width: 400px;
+  height: 25px;
+  border-radius: 5px;
+}
+.row-three{
+  background-color: green;
+  width: 650px;
+  height: 25px;
+  border-radius: 5px;
+}
+.row-four{
+  background-color: red;
+  width: 250px;
+  height: 25px;
+  border-radius: 5px;
+}
